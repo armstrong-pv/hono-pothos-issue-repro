@@ -1,0 +1,15 @@
+/target
+/dist
+**/*.rs.bk
+pkg/
+wasm-pack.log
+worker/
+node_modules/
+.vscode
+.env*
+!*.example
+.mf
+wrangler.toml
+coverage
+.vscode
+pnpm-lock.yaml
