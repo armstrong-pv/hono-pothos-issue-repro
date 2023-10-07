@@ -45,6 +45,8 @@ I raised an issue in the Pothos repo: https://github.com/hayes/pothos/issues/106
 
 ## TEST: should directly return 401 if graphql errors handling can be bypassed
 
+Mutation: `errorHandling`
+
 In some instances (e.g. a device authentication mutation I'm working on), it would be good to be able to return standard http codes, but everything seems to get returned as a GraphQL response.
 
 ## License
