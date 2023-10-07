@@ -3,7 +3,7 @@ There are 3 tests in the repo which currently fail. Each of these is outlined af
 
 ## Quick Start
 
-To install, run:
+The repro code is contained in `/src/index.ts`. To install, run:
 
 ```bash
 npm install
